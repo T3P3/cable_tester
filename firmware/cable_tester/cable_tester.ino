@@ -1,5 +1,6 @@
 //Circuit tester sketch for Arduino Mega
 //(c) Tony@think3dprint3d.com
+//GPLv3
 
 //LCD
 

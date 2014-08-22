@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 22/08/2014 13:24:31
+EESchema Schematic File Version 2  date 22/08/2014 14:17:57
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -40,7 +40,7 @@ Title "IDC 5x2 cable tester"
 Date "22 aug 2014"
 Rev "0.1"
 Comp "Think3DPrint3D"
-Comment1 ""
+Comment1 "CERN OHL 1.2"
 Comment2 ""
 Comment3 ""
 Comment4 ""
